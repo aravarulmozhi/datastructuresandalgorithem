@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node implementinganarray.js"
+run = "node reversestring.js"
