@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node reversestring.js"
+run = "node twoSum.js"
